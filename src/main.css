@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "GoleastanLight";
+  src: url("../public/Font/Iran\ Sans\ Light.ttf");
+}
