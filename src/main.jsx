@@ -9,6 +9,7 @@ import './main.css'
 import Baner from './Components/Baner/Baner'
 import Magazin from './Components/Magazin/Magazin'
 import Hospital from './Components/Hospital/Hospital'
+import Footer from './Components/Footer/Footer'
 createRoot(document.getElementById('root')).render(
   <div><Menu/>
     <Chai/>
@@ -46,6 +47,7 @@ createRoot(document.getElementById('root')).render(
     <Baner/>
     <Magazin/>
     <Hospital/>
+    <Footer/>
     </div>
     
 )
